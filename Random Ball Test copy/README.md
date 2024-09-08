@@ -5,8 +5,8 @@
  The question was:
  You have 20 blue balls and 13 red balls.
  Randomly remove 2 balls, then do the following:
- - If they are the same color, replace them with a blue ball
- - If they are different colors, replace them with a red ball
+ - If they are the same color, place them back in the bag, then remove a blue ball
+ - If they are different colors, place them back in the bag, then remove a red ball
  Repeat until only 1 ball remains.
  What is the color of that ball?
 
